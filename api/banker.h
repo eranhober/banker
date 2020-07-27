@@ -17,6 +17,7 @@ class Banker
 {
 public:
 
+    
   struct Request
   {
       enum Type {
