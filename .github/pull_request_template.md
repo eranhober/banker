@@ -2,15 +2,24 @@
 ### BigaBid Pull Request 
 _______
 
-#### Production integration System verification
-acknowledge the following checks before going into production (if applicable)
-* [ ] new API version needed (router-augmentor comm)
+#### PR Checklist
+_______
+acknowledge the following checks before merging (if applicable)
+* [ ] API version breaking changes (router-augmentor comm)
 * [ ] unit-tests coverage 
 * [ ] tests-environment flows coverage 
-* [ ] is there a data api change (DS data schema change / MlMonitoring) 
+* [ ] data api change (DS data schema change / MlMonitoring) 
 
 #### Production Roll Strategy
+_______
 * [ ] provided roll strategy for production deployment
 * [ ] roll strategy approved
 
+#### Currrent behavior:
+_______
 
+#### New behavior:
+_______
+
+#### Roll Strategy:
+_______
